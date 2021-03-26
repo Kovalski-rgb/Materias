@@ -6,4 +6,4 @@
 
 # Ordem cronológica dos repositórios:
 - MFF_funcoesExponenciais
-- MMF_TDE
+- MFF_TDE

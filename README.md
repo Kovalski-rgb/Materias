@@ -12,3 +12,4 @@
 - RA_AF2
 ****
 [negócio](https://github.github.com/gfm/#what-is-github-flavored-markdown-) pra ver o github bonito (SIM SALVEI AQUI NÃO LIGO A CONTA É MINHA E ISSO É UTIL DEMAIS)
+também tem [esse](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) aqui

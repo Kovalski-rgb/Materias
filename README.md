@@ -3,9 +3,12 @@
 - RA = Raciocínio Algoritmico
 - DEC = Descoberta e Evolução da Computação
 - ECNC = Experiência Criativa: Navegando na Computação
-
+****
 # Ordem cronológica dos repositórios:
+- RA_AF3
 - MFF_RefinandoModelos
 - MFF_funcoesExponenciais
 - MFF_TDE
 - RA_AF2
+****
+[negócio](https://github.github.com/gfm/#what-is-github-flavored-markdown-) pra ver o github bonito (SIM SALVEI AQUI NÃO LIGO A CONTA É MINHA E ISSO É UTIL DEMAIS)

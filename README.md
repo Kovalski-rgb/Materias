@@ -5,6 +5,7 @@
 - ECNC = Experiência Criativa: Navegando na Computação
 ****
 # Ordem cronológica dos repositórios:
+- RA_AF6
 - MFF_Simulado
 - RA_AF5
 - MFF_LIMITES

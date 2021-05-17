@@ -5,6 +5,7 @@
 - ECNC = Experiência Criativa: Navegando na Computação
 ****
 # Ordem cronológica dos repositórios:
+- ECNC_AudioVisualizer
 - RA_AF8
 - RA_AF7
 - RA_AS2

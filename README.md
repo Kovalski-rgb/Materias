@@ -3,6 +3,7 @@
 - RA = Raciocínio Algoritmico
 - DEC = Descoberta e Evolução da Computação
 - ECNC = Experiência Criativa: Navegando na Computação
+- LM = Resolução de Problemas com Lógica Matemática
 ****
 # Ordem cronológica dos repositórios:
 - RA_AF10

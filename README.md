@@ -6,6 +6,7 @@
 - LM = Resolução de Problemas com Lógica Matemática
 ****
 # Ordem cronológica dos repositórios:
+- LM_TDE1
 - RA_AF10
 - RA_AF9
 - ECNC_AudioVisualizer
